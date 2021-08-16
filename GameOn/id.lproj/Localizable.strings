@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  GameOn
+
+  Created by Andika on 05/08/21.
+  
+*/
+"WELCOME_TEXT" = "Selamat datang di\nGameOn!";
+"NEXT" = "Lanjutkan";
+
+"ONBOARDING_TOP_RATED" = "Permainan Peringkat Atas";
+"ONBOARDING_TOP_RATED_DESCRIPTION" = "Jelajahi peringkat atas permainan, dikuratori oleh entusias permainan seperti kamu!";
+
+"ONBOARDING_GAMECODE" = "GameCode";
+"ONBOARDING_GAMECODE_DESCRIPTION" = "GameCode membantu kamu dan teman kamu untuk berbagi ID dan permainan favorit!";
+
+"ONBOARDING_SEARCH" = "Jelajahi lebih dari 56Rb Permainan";
+"ONBOARDING_SEARCH_DESCRIPTION" = "Didukung oleh RAWG, GameOn menyediakan lebih dari 56 ribu permainan untuk dijelajahi!";
+
+"ONBOARDING_FAVORITE" = "Permainan Terfavorit";
+"ONBOARDING_FAVORITE_DESCRIPTION" = "Suka dengan permainannya? Tandai sebagai favorit untuk tetap mengetahui perkembangannya!";
+
+"ACCOUNT" = "Akun";
+"PROFILE" = "Profil";
+
+"GAMECODE" = "GameCode";
+
+"MY_PROFILE" = "Profil Ku";
+"COMPLETE_PROFILE_FEATURES" = "Lengkapi profil kamu untuk memberikan pengalaman yang terpersonalisasi. Termasuk berbagi dengan GameCode!";
+
+"SETTINGS" = "Pengaturan";
+"GAME_PLATFORM" = "Platform Permainan";
+
+"GENERAL" = "Umum";
+"SOFTWARE_LICENSE" = "Lisensi Perangkat Lunak";
+"LICENSES" = "Lisensi";
+"MEET_THE_DEVELOPER" = "Temui Pengembang";
+"DEVELOPER_INFO" = "Informasi Pengembang";
+
+"RESET_FAVORITE_GAMES" = "Atur Ulang Favorit";
+"CONFIRMATION_RESET_FAVORITES" = "Atur Ulang Favorit?";
+"CONFIRMATION_MESSAGE_RESET_FAVORITES" = "Apa kamu yakin untuk mengatur ulang favorit? Tindakan ini tidak dapat dibatalkan!";
+
+"DONE" = "Selesai";
+"CANCEL" = "Batalkan";
+"YES" = "Ya";
+
+"PERSONAL_DETAILS" = "Detail Pribadi";
+"USER_NAME" = "Nama Pengguna";
+"GAMER_LEVEL" = "Level Gamer";
+"NEW_GAMER" = "Gamer Baru";
+"QUITE_LONG_GAMER" = "Gamer Lumayan Lama";
+"LONG_GAMER" = "Gamer Lama";
+"OG_GAMER" = "Gamer Sepuh";
+
+"SOCIAL_DETAILS" = "Detail Sosial";
+"STEAM_USERNAME" = "Username Steam";
+"EGS_USERNAME" = "Username Epic Game";
+
+"SHARING_OPTIONS" = "Pilihan Berbagi";
+"ENABLE_GC_SHARING" = "Aktifkan Berbagi GameCode";
+"ENABLE_GC_FAVORITE_SHARING" = "Bagikan Favorit Terbaru";
+"RECENT_FAVORITES" = "Favorit Terbaru";
+
+"MY_GAMECODE" = "GameCode Ku";
+"PROFILE_NOT_COMPLETE_GAMECODE" = "Lengkapi profil kamu untuk menggunakan berbagi dengan GameCode.";
+"GAMECODE_DISABLED" = "Berbagi dengan GameCode dinonaktifkan. Aktifkan di profil mu untuk mulai berbagi.";
+"GAMECODE_TUTORIAL" = "Arahkan kamera temanmu ke GameCode kamu";
+
+"SCAN" = "Pindai";
+"SCAN_GAMECODE" = "Pindai GameCode";
+"GAMECODE_SCAN_INSTRUCTION" = "Arahkan kamera kamu ke GameCode temanmu";
+"GAMECODE_INVALID" = "GameCode Tidak Valid";
+
+"PLATFORM_SELECTION" = "Pilih Platform Kamu";
+"GETTING_PLATFORMS" = "Mendapatkan Platform";
+"PLATFORM_SELECTION_DESCRIPTION" = "Kamu bisa memilih 2-4 platform untuk ditampilkan di tab Platform.";
+"ERROR_PLATFORM_DATA_SELECTION" = "Keliru?";
+"ERROR_PLATFORM_DATA_SELECTION_DESCRIPTION" = "Kamu bisa memilih minimal 2 platform sampai 4 platform di waktu yang sama.";
+"OK" = "OK";
+
+"RESET_SELECTION" = "Atur Ulang Pilihan";
+
+"NEW_RELEASE" = "Rilis Baru";
+"TOP_RATED" = "Teratas";
+"FAVORITES" = "Favorit";
+"PLATFORMS" = "Platform";
+"SEARCH" = "Pencarian";
+
+"FAVORITE_EMPTY" = "Belum menemukan permainan favorit? Lihat halaman Jelajah GameOn!";
+
+"GAMES_ON_PLATFORM %@" = "Permainan di %@";
+
+"NO_CONNECTION" = "Tidak ada koneksi internet. Pastikan kamu terhubung ya.";
+"UNKNOWN_ERROR" = "Kesalahan tidak diketahui.";
+
+"LOADING" = "Memuat";
+"SEARCHING" = "Mencari";
+"DISCOVERING_GAMES" = "Menjelajahi Permainan";
+"GETTING_GAME_DETAILS" = "Mendapatkan detail permainan";
+
+"FAVORITED" = "Difavoritkan";
+"ADD_TO_FAVORITES" = "Tambahkan ke Favorit";
+
+"LOCAL_DATA_INCOMPLETE_DESCRIPTION" = "Kamu melihat snapshot permainan ini pada saat kamu menandai permainan ini sebagai favorit. Beberapa informasi mungkin tidak diperbarui atau hilang.";
+
+"RESULT_FOR %@" = "Hasil untuk \"%@\"";
+
+"RATE_PENDING_OR_UNAVAILABLE" = "Rating Tertunda atau Tidak Tersedia";
+"NO_MATCH_SEARCH" = "Tidak ada permainan ditemukan, mungkin cari yang lain?";
+
+"AVAILABLE_SINCE %@" = "Tersedia sejak %@";
+"HOUR" = "Jam";
+"DISCOVER_GAMEON" = "Jelajahi GameOn";
+
+"GAME_DETAILS" = "Detail Permainan";
+
+"NOT_RELEASED" = "Belum dirilis";
+
+"ABOUT_THIS_GAME" = "Tentang permainan ini";
+"GENRES" = "Genre";
+"SCREENSHOTS" = "Tangkapan Layar";
+"RATING_REVIEWS" = "Rating & Ulasan";
+"%lld REVIEWS" = "%lld ulasan";
+
+"OUT_OF_RATE %lld" = "dari %lld";
+"%lld SUGGESTION_COUNT" = "%lld pengguna menyarankan ini!";
+"USERS_COUNT %lld" = "atau sekitar %lld pengguna mengatakan ini!";
+
+"DEVELOPERS" = "(Para) Pengembang";
+"PUBLISHERS" = "(Para) Penerbit";

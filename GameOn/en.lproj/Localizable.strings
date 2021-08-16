@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  GameOn
+
+  Created by Andika on 05/08/21.
+  
+*/
+"WELCOME_TEXT" = "Welcome to\nGameOn!";
+"NEXT" = "Next";
+
+"ONBOARDING_TOP_RATED" = "Top Rated Games";
+"ONBOARDING_TOP_RATED_DESCRIPTION" = "Discover top games, curated by game ethusiast like you!";
+
+"ONBOARDING_GAMECODE" = "GameCode";
+"ONBOARDING_GAMECODE_DESCRIPTION" = "GameCode helps you and your friends to share your ID and favorited games!";
+
+"ONBOARDING_SEARCH" = "Discover over 56K Games";
+"ONBOARDING_SEARCH_DESCRIPTION" = "Powered by RAWG, GameOn provides you over 56K games to discover!";
+
+"ONBOARDING_FAVORITE" = "Favorited Games";
+"ONBOARDING_FAVORITE_DESCRIPTION" = "Love the games? Mark as favorite to keep tou updated with the game!";
+
+"ACCOUNT" = "Account";
+"PROFILE" = "Profile";
+
+"GAMECODE" = "GameCode";
+
+"MY_PROFILE" = "My Profile";
+"COMPLETE_PROFILE_FEATURES" = "Complete your profile to give you more personalized experiences. Including shareable GameCode!";
+
+"SETTINGS" = "Settings";
+"GAME_PLATFORM" = "Game Platform";
+
+"GENERAL" = "General";
+"SOFTWARE_LICENSE" = "Software License";
+"LICENSES" = "Licenses";
+"MEET_THE_DEVELOPER" = "Meet the Developer";
+"DEVELOPER_INFO" = "Developer Info";
+
+"RESET_FAVORITE_GAMES" = "Reset Favorited Games";
+"CONFIRMATION_RESET_FAVORITES" = "Reset Favorites?";
+"CONFIRMATION_MESSAGE_RESET_FAVORITES" = "Are you sure to reset your favorited games? This action cannot be undone!";
+
+"DONE" = "Done";
+"CANCEL" = "Cancel";
+"YES" = "Yes";
+
+"PERSONAL_DETAILS" = "Personal Details";
+"USER_NAME" = "User name";
+"GAMER_LEVEL" = "Gamer Level";
+"NEW_GAMER" = "New Gamer";
+"QUITE_LONG_GAMER" = "Quite Long Gamer";
+"LONG_GAMER" = "Long Gamer";
+"OG_GAMER" = "OG Gamer";
+
+"SOCIAL_DETAILS" = "Social Details";
+"STEAM_USERNAME" = "Steam Username";
+"EGS_USERNAME" = "Epic Game Username";
+
+"SHARING_OPTIONS" = "Sharing Options";
+"ENABLE_GC_SHARING" = "Enable GameCode Sharing";
+"ENABLE_GC_FAVORITE_SHARING" = "Share Recent Favorited";
+"RECENT_FAVORITES" = "Recent Favorites";
+
+"MY_GAMECODE" = "My GameCode";
+"PROFILE_NOT_COMPLETE_GAMECODE" = "Complete your profile to use GameCode Sharing.";
+"GAMECODE_DISABLED" = "GameCode Sharing is disabled. Enable it on your profile to start Sharing.";
+"GAMECODE_TUTORIAL" = "Align your friends camera to your GameCode";
+
+"SCAN" = "Scan";
+"SCAN_GAMECODE" = "Scan GameCode";
+"GAMECODE_SCAN_INSTRUCTION" = "Align your camera to your friends GameCode";
+"GAMECODE_INVALID" = "GameCode Invalid";
+
+"PLATFORM_SELECTION" = "Pick your Platforms";
+"GETTING_PLATFORMS" = "Getting Platforms";
+"PLATFORM_SELECTION_DESCRIPTION" = "You can select 2-4 platforms to displayed at Platforms tab.";
+"ERROR_PLATFORM_DATA_SELECTION" = "Mistaken?";
+"ERROR_PLATFORM_DATA_SELECTION_DESCRIPTION" = "You can minimally select 2 platforms, up to 4 platforms at the same time.";
+"OK" = "OK";
+
+"RESET_SELECTION" = "Reset Selection";
+
+"NEW_RELEASE" = "New Release";
+"TOP_RATED" = "Top Rated";
+"FAVORITES" = "Favorites";
+"PLATFORMS" = "Platforms";
+"SEARCH" = "Search";
+
+"FAVORITE_EMPTY" = "Haven't found your favorite games? Take a look at GameOn Discover Page!";
+
+"GAMES_ON_PLATFORM %@" = "Games on %@";
+
+"NO_CONNECTION" = "No connection found. Please check your Internet connection";
+"UNKNOWN_ERROR" = "Unknown error occured.";
+
+"LOADING" = "Loading";
+"SEARCHING" = "Searching";
+"DISCOVERING_GAMES" = "Discovering Games";
+"GETTING_GAME_DETAILS" = "Getting game details";
+
+"FAVORITED" = "Favorited";
+"ADD_TO_FAVORITES" = "Add to my Favorites";
+
+"LOCAL_DATA_INCOMPLETE_DESCRIPTION" = "You're viewing this game snapshot when you mark this game as favorite. Some information may not updated or missing.";
+
+"RESULT_FOR %@" = "Results for \"%@\"";
+
+"RATE_PENDING_OR_UNAVAILABLE" = "Rating Pending or Not Available";
+"NO_MATCH_SEARCH" = "No matched game found, maybe search for something else?";
+
+"AVAILABLE_SINCE %@" = "Available since %@";
+"HOUR" = "Hour";
+"DISCOVER_GAMEON" = "Discover GameOn";
+
+"GAME_DETAILS" = "Game Detail";
+
+"NOT_RELEASED" = "Not released";
+
+"ABOUT_THIS_GAME" = "About this game";
+"GENRES" = "Genres";
+"SCREENSHOTS" = "Screenshots";
+"RATING_REVIEWS" = "Rating & Reviews";
+"%lld REVIEWS" = "%lld reviews";
+
+"OUT_OF_RATE %lld" = "out of %lld";
+"%lld SUGGESTION_COUNT" = "%lld users suggesting this!";
+"USERS_COUNT %lld" = "or about %lld users say this!";
+
+"DEVELOPERS" = "Developer(s)";
+"PUBLISHERS" = "Publisher(s)";
