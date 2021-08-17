@@ -9,6 +9,9 @@ import Foundation
 
 class PlatformRepo {
     let baseUrl = "https://api.rawg.io/api/platforms"
+    
+    // Replace this example API Key
+    // Get at https://rawg.io/apidocs
     let apiKey = "bd68d1483c8d428ab66fbd4edda44571"
 
     func getAllPlatform() -> URL {

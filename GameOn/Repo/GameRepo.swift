@@ -9,6 +9,9 @@ import Foundation
 
 class GameRepo {
     let baseUrl = "https://api.rawg.io/api/games"
+    
+    // Replace this example API Key
+    // Get at https://rawg.io/apidocs
     let apiKey = "bd68d1483c8d428ab66fbd4edda44571"
 
     let pageSize = 10
